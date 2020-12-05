@@ -1,0 +1,14 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "excerpts/ERC721": [
+      {
+        "address": "0x8e49000dFF43b131D6F2e0E8Cc3d081476F068dC",
+        "kind": "NonProxy",
+        "bytecodeHash": "14bc1e9984e8bcfbbae6345ca602fcc45654e197e8a34eb1a4ad881d9fb51aa6"
+      }
+    ]
+  },
+  "manifestVersion": "2.2"
+}
