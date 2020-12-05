@@ -2,14 +2,43 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { Button } from "antd";
 
-import sample from "./Excerpt_1.png";
+import excerpt_1 from "./Excerpt_1.png";
+import excerpt_2 from "./Excerpt_2.png";
+import excerpt_3 from "./Excerpt_3.png";
+import excerpt_4 from "./Excerpt_4.png";
+import excerpt_5 from "./Excerpt_5.png";
+import excerpt_6 from "./Excerpt_6.png";
+import excerpt_7 from "./Excerpt_7.png";
+import excerpt_8 from "./Excerpt_8.png";
+import excerpt_9 from "./Excerpt_9.png";
+import excerpt_10 from "./Excerpt_10.png";
+import excerpt_11 from "./Excerpt_11.png";
+import excerpt_12 from "./Excerpt_12.png";
+import excerpt_13 from "./Excerpt_13.png";
+import excerpt_14 from "./Excerpt_14.png";
+import excerpt_15 from "./Excerpt_15.png";
 
 function IntroComponent(props) {
      
     return (
         <div className="App" style={{textAlign:"justify"}}> 
         Own an excerpt from the novel, Hope Runners of Gridlock.
-        <img src={sample} style={{maxWidth: "100%", maxHeight: "100%"}} alt="Sample" />
+        <br />
+        <img src={excerpt_1} style={{maxWidth: "100%", maxHeight: "100%"}} />
+        <img src={excerpt_2} style={{maxWidth: "100%", maxHeight: "100%"}} />
+        <img src={excerpt_3} style={{maxWidth: "100%", maxHeight: "100%"}} />
+        <img src={excerpt_4} style={{maxWidth: "100%", maxHeight: "100%"}} />
+        <img src={excerpt_5} style={{maxWidth: "100%", maxHeight: "100%"}} />
+        <img src={excerpt_6} style={{maxWidth: "100%", maxHeight: "100%"}} />
+        <img src={excerpt_7} style={{maxWidth: "100%", maxHeight: "100%"}} />
+        <img src={excerpt_8} style={{maxWidth: "100%", maxHeight: "100%"}} />
+        <img src={excerpt_9} style={{maxWidth: "100%", maxHeight: "100%"}} />
+        <img src={excerpt_10} style={{maxWidth: "100%", maxHeight: "100%"}} />
+        <img src={excerpt_11} style={{maxWidth: "100%", maxHeight: "100%"}} />
+        <img src={excerpt_12} style={{maxWidth: "100%", maxHeight: "100%"}} />
+        <img src={excerpt_13} style={{maxWidth: "100%", maxHeight: "100%"}} />
+        <img src={excerpt_14} style={{maxWidth: "100%", maxHeight: "100%"}} />
+        <img src={excerpt_15} style={{maxWidth: "100%", maxHeight: "100%"}} />
         <br />
 
         <hr />
