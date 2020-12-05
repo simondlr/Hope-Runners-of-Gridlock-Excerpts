@@ -22,6 +22,7 @@ function IntroComponent(props) {
      
     return (
         <div className="App" style={{textAlign:"justify"}}> 
+        <h2>Hope Runners of Gridlock Excerpts</h2>
         Own an excerpt from the novel, Hope Runners of Gridlock.
         <br />
         <img src={excerpt_1} style={{maxWidth: "100%", maxHeight: "100%"}} />
