@@ -38,7 +38,8 @@ function IntroComponent(props) {
         In this case, with fiction, a reader can own specific excerpts secured by the Ethereum blockchain.
         <br />
         <h2>Collect</h2>
-        There are 15 excerpts available from the novel. The initial auction is being conducted on OpenSea, a non-fungible token marketplace.
+        There are 15 excerpts available from the novel. To own an excerpt, an initial auction is being conducted for a week on OpenSea.io. A winning bid will automatically be decided by Sunday, December 12th, 2020. 
+        After that, future owners would have to contact the owners and bid on them in order to collect an excerpt.
         <br />
         <br />
         <h3>*SPOILERS*</h3>
