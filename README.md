@@ -1,13 +1,12 @@
-
 ## Hope Runners of Gridlock Excerpts 
 
 ### About
 
-todo
+Excerpts of Gridlock is a digital art project that allows readers to own excertps from the novel, Hope Runners of Gridlock.
 
 ### Tech
 
-todo
+Uses ERC721. Using hardhat and openzeppelin for smart contracts development. Fairly standard deployment.
   
 ### Development & Testing
 
